@@ -6,7 +6,8 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/mean_zz)](https://blog.naver.com/mean_zz)
 
 
-**ymj210/ymj210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☝🏻 한 줄 소개 
+소소하게 빛나는 하루가 모여 반짝반짝 빛나는 인생을 만들고 싶은 컴퓨터공학도 윤민지입니다.
 
 Here are some ideas to get you started:
 
